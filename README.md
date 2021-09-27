@@ -9,7 +9,7 @@
 
 Welcome to the Poggle colors library! This library is based on Googles Material Design color library.
 
-You can read our full docs [here.](http://poggle.io)
+You can read our full docs [here.](https://ghostcrawl3r.github.io/-poggle-colors/?path=/docs/)
 
 Please feel free to follow the project on GH.
 
