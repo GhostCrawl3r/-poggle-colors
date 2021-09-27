@@ -35,7 +35,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "colors",
+  "name":"@poggle/colors",
   "author": "Nick Morgan",
   "module": "dist/colors.esm.js",
   "size-limit": [
