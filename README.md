@@ -14,7 +14,7 @@ You can read our full docs [here.](http://poggle.io)
 Please feel free to follow the project on GH.
 
 
-## Install Poggle
+## Install Poggle Colors
 You can easily install Poggle Colors from NPM or Yarn using the following commands in your terminal:
 
 ##### NPM
